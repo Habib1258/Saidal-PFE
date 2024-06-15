@@ -1,0 +1,21 @@
+.container{
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50% , -4%);
+    text-align: left;
+}
+
+body{
+    background-color: rgb(212, 205, 205);
+}
+
+h1{
+    text-align: center;
+}
+.logo{
+    padding-bottom: 20px;
+        
+}
